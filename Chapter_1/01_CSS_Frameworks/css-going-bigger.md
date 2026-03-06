@@ -1,24 +1,3 @@
----
-  icon: 📖
-  title: CSS— Going bigger
-  unit: 
-    name: 003 - Intro to JS
-    color: brown
-  chapter: 
-    name: Module Project— Figma and TailwindCSS
-    color: purple
-  type: 
-    name: Article
-    color: purple
-  ft-id: 003.01.003
-  pt-id: 003.01.003
-  objectives: This is meant to be read as a preamble to the Figma/Tailwind project. 
-  slides: null
-  instructorNotes:
-    plainText: This is meant to be read as a preamble to the Figma/Tailwind project. 
-    links: null
----
-
 # 📖 CSS: Going bigger
 
 So far, you have focused and practiced on the CSS fundamentals: how to alter the default appearance of HTML elements by positioning them, changing colour and fonts, altering their dimensions or disposition to fit the device your page is displayed in, and many different, exciting or more efficient ways to achieve these results.

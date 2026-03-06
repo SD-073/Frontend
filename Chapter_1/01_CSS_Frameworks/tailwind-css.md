@@ -1,24 +1,3 @@
----
-  icon: 📖
-  title: Getting started with TailwindCSS
-  unit: 
-    name: 003 - Intro to JS
-    color: brown
-  chapter: 
-    name: Module Project— Figma and TailwindCSS
-    color: purple
-  type: 
-    name: Article
-    color: purple
-  ft-id: 003.01.005
-  pt-id: 003.01.005
-  objectives: First practice with Tailwind and exploring basic usage
-  slides: null
-  instructorNotes:
-    plainText: This step is meant to be self-paced but it’s a good idea to come together in class and go over the basic setup 
-    links: null
----
-
 # 📖 Getting started with Tailwind CSS
 
 [Tailwind CSS](https://tailwindcss.com/) is a utility-first CSS framework packed with pre-defined classes to enable you to style your pages in a more scalable and predictable way. And the reason we picked it up as our go-to it’s clearly stated in [State of CSS](https://stateofcss.com/en-US)

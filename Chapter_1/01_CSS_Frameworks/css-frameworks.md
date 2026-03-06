@@ -1,24 +1,3 @@
----
-  icon: 📖
-  title: What’s a CSS framework?
-  unit: 
-    name: 003 - Intro to JS
-    color: brown
-  chapter: 
-    name: Module Project— Figma and TailwindCSS
-    color: purple
-  type: 
-    name: Article
-    color: purple
-  ft-id: 003.01.004
-  pt-id: 003.01.004
-  objectives: This is meant to be read as a preamble to the Figma/Tailwind project. 
-  slides: null
-  instructorNotes:
-    plainText: This is meant to be read as a preamble to the Figma/Tailwind project. 
-    links: null
----
-
 # 📖 What’s a CSS framework?
 
 Frameworks are a set of utilities that aim to provide you an easier way of utilising a specific system through a layer of abstraction, requiring you to utilise the framework tools instead, while the framework concerns itself with converting that into the lower-level system it builds on top of. Think of it as shortcut codes: the framework puts a simpler command at your disposal to execute a more complex task or set of commands!
