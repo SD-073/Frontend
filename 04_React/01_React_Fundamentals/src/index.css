@@ -1,0 +1,13 @@
+.app {
+  border: 2px solid black;
+}
+
+.navbar {
+  border: 2px dotted red;
+  margin: 2rem;
+}
+
+.main {
+  border: 2px dotted red;
+  margin: 2rem;
+}
