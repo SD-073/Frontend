@@ -1,8 +1,8 @@
-import { useProducts } from "../context";
+import { useProducts } from '../contexts';
 
 function Categories() {
-  const {products}= useProducts();
-  console.log(products)
+  const { products } = useProducts();
+  console.log(products);
   return (
     <div>
       <h2>Categories</h2>

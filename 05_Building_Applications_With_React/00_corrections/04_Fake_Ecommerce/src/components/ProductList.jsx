@@ -1,8 +1,8 @@
-import { useProducts } from '../context';
+import { useProducts } from '../contexts';
 
-function ProductList({fakeProducts, fakeLoading, fakeError}) {
-    const {products} = useProducts();
-    
+function ProductList({ fakeProducts, fakeLoading, fakeError }) {
+  const { products } = useProducts();
+
   return (
     <div>
       <h2>List of products</h2>
